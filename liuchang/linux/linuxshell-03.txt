@@ -1,0 +1,22 @@
+-Q1：请使用一条指令，一次性创建多层目录，如：/home/map/test/a/b/c 。
+mkdir –p /home/map/test/a/b/c
+
+-Q2：请查找odp_cater目录下所有.log文件中存在ERROR字段的log文件，输出具体log文件名称。
+find /odp_cater -name "*.log" | xargs grep -l "ERROR"
+或者
+find /home/map/odp_cater -name "*.log" -exec grep -l "ERROR" {} \;
+
+-Q3：请统计odp_cater模块中access log访问量最多的1个IP。
+cat /odp_cater/log/access_log | awk '{print $1}' | uniq -c | sort -n |head -1
+awk:默认按空格分成多列，$1为输出第一列
+uniq：去重，-c为在前加上重复出现的个数
+sort：-n 按数字进行排序
+head：-1只展示第一行
+
+-Q4：按进程内存大小，从大到小排列。
+top -m
+
+-Q5：根据端口(如：8086)列出进程名称。
+netstat -lntp | grep 8086
+或者
+lsof -i:8086
