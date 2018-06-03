@@ -65,6 +65,8 @@ $tes+=10;
 echo $tes;//20
 echo $res1;//20
 
+
+//Q4：请写出如下程序的输出结果。
 $count = 5;//全局变量
 function get_count(){
     static $count = 0;//静态变量。局部变量
@@ -75,6 +77,10 @@ echo $count;//5
 echo get_count();//0
 echo get_count();//1
 
+
+
+//-Q5：isset($val), empty($val)，boolval($val),
+// intval($val) $val == false , $val === false, $val == null 的区别，且编写代码Demo说明。
 function variableType(){
     echo "---------------------isset()-------------------"."\n";
     echo "<br>";
