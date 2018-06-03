@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="343f07e6-6d8c-4926-a646-a4a987a45ca6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/goodCoder_php_1-2.pnp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/php-test" afterPath="$PROJECT_DIR$/php-test" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,67 +13,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GoodCoderPHP-0304.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/liuchang/php/GoodCoderPHP-0304.php">
+      <file leaf-file-name="goodCoder_php_7-8.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goodCoder_php_7-8.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1785">
-              <caret line="105" column="40" lean-forward="false" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="40" />
+            <state relative-caret-position="125">
+              <caret line="209" column="7" lean-forward="false" selection-start-line="209" selection-start-column="7" selection-end-line="209" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoodCoderPHP-0102.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/liuchang/php/GoodCoderPHP-0102.php">
+      <file leaf-file-name="GoodCoderPHP-0708.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/liuchang/php/GoodCoderPHP-0708.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3349">
-              <caret line="197" column="18" lean-forward="true" selection-start-line="197" selection-start-column="18" selection-end-line="197" selection-end-column="18" />
+            <state relative-caret-position="-202">
+              <caret line="154" column="43" lean-forward="true" selection-start-line="154" selection-start-column="43" selection-end-line="154" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="goodCoder_php_1-2.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/goodCoder_php_1-2.php">
+      <file leaf-file-name="httpd.conf" pinned="false" current-in-tab="false">
+        <entry file="file:///Applications/XAMPP/xamppfiles/etc/httpd.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1763">
-              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="187">
+              <caret line="228" column="51" lean-forward="false" selection-start-line="228" selection-start-column="14" selection-end-line="228" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="goodCoder_php_3-4.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goodCoder_php_3-4.php">
+      <file leaf-file-name="getpost.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getpost.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-172">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="goodCoder_php_5-6.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goodCoder_php_5-6.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="88" column="25" lean-forward="true" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoodCoderPHP-0506.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/liuchang/php/GoodCoderPHP-0506.php">
+      <file leaf-file-name="test1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="php-test" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php-test">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>htdos</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,8 +88,11 @@
       <list>
         <option value="$PROJECT_DIR$/php1-2.php" />
         <option value="$PROJECT_DIR$/php3-4.php" />
-        <option value="$PROJECT_DIR$/php-test" />
         <option value="$PROJECT_DIR$/goodCoder_php_5-6.php" />
+        <option value="$PROJECT_DIR$/php-test" />
+        <option value="$PROJECT_DIR$/test1.php" />
+        <option value="$PROJECT_DIR$/getpost.php" />
+        <option value="$PROJECT_DIR$/goodCoder_php_7-8.php" />
       </list>
     </option>
   </component>
@@ -194,12 +202,12 @@
       <workItem from="1527058792803" duration="4000" />
       <workItem from="1527083171052" duration="2026000" />
       <workItem from="1527132227132" duration="2000" />
-      <workItem from="1527751997400" duration="7551000" />
+      <workItem from="1527751997400" duration="12178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21368000" />
+    <option name="totallyTimeSpent" value="25995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -366,13 +374,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/liuchang/php/GoodCoderPHP-0708.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php1-2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -397,42 +398,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goodCoder_php_3-4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-172">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goodCoder_php_5-6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="88" column="25" lean-forward="true" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/liuchang/php/GoodCoderPHP-0506.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liuchang/php/GoodCoderPHP-0304.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="105" column="40" lean-forward="false" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -453,10 +422,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/liuchang/php/GoodCoderPHP-0304.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="105" column="40" lean-forward="false" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/goodCoder_php_1-2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1763">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="-2018">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodCoder_php_5-6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="88" column="25" lean-forward="true" selection-start-line="88" selection-start-column="25" selection-end-line="88" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodCoder_php_3-4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getpost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liuchang/php/GoodCoderPHP-0708.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-202">
+          <caret line="154" column="43" lean-forward="true" selection-start-line="154" selection-start-column="43" selection-end-line="154" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/XAMPP/xamppfiles/etc/httpd.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="228" column="51" lean-forward="false" selection-start-line="228" selection-start-column="14" selection-end-line="228" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodCoder_php_7-8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="209" column="7" lean-forward="false" selection-start-line="209" selection-start-column="7" selection-end-line="209" selection-end-column="7" />
           <folding />
         </state>
       </provider>
