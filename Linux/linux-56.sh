@@ -86,3 +86,70 @@ for j in $(seq 1 10);do
     touch $file_name_part$var
 done
 
+
+
+//-Q5：开发shell脚本分别实现以脚本传参以及read读入的方式比较2个整数大小。以屏幕
+输出的方式提醒用户比较结果。注意：一共是开发2个脚本。当用脚本传参以及read读入的方式需要对变量是否为数字、并且传参个数做判断。
+
+A:read方式
+#!/bin/bash
+
+read -p "pleas enter two number:" a b
+[ -z "$a" ] || [ -z "$b" ] && {
+echo "Pls input two num again."
+exit 1
+}
+
+expr $a + 10 &>/dev/null
+var1=$?
+expr $b + 10 &>/dev/null
+var2=$?
+test $RETVAL1 -eq 0 -a $RETVAL2 -eq 0 ||{
+echo "pls input two "num" again."
+exit 2
+}
+#num3
+[ $a -lt $b ] &&{
+echo "$a < $b"
+}
+#num4
+[ $a -eq $b ] &&{
+echo "$a = $b"
+}
+#num5
+[ $a -gt $b ] &&{
+echo "$a > $b"
+}
+
+
+
+B:脚本传参：
+#!/bin/bash
+a=$1
+b=$2
+if [ $# -ne 2 ];then
+    echo "USAGE:$0 NUM1 NUM2"
+    exit 1
+fi
+expr $a + 10 &>/dev/null
+var1=$?
+expr $b + 10 &>/dev/null
+var2=$?
+echo $var2
+if [[ $var2 -ne 0 || $var2 -ne 0 ]];then
+    echo 'please enter two num'
+    exit 2
+fi
+echo "ning"
+#num3
+[ $a -lt $b ] &&{
+echo "$a < $b"
+}
+#num4
+[ $a -eq $b ] &&{
+echo "$a = $b"
+}
+#num5
+[ $a -gt $b ] &&{
+echo "$a > $b"
+}
